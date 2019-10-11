@@ -2,3 +2,9 @@ instalasi os jaringan dan konfigurasi ssh server, ftp server, dns server, dhcp s
 flatform mengelola video
 membuat konten untuk sekolah
 mengembangkan  pemrograman web,
+belajar bahasa C++ untuk pemula
+belajar bahasa script pemula
+belajar java script pemula
+belajar php pemula
+mengelola CRUID dan RDBMS
+belajar apa itu expert
