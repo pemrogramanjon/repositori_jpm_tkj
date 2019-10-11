@@ -7,4 +7,4 @@ belajar bahasa script pemula
 belajar java script pemula
 belajar php pemula
 mengelola CRUID dan RDBMS
-membuat vlog
+membuat vlog dan database tkj
