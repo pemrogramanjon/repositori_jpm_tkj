@@ -1,0 +1,4 @@
+instalasi os jaringan dan konfigurasi ssh server, ftp server, dns server, dhcp server, web server, database server, mail server
+flatform mengelola video
+membuat konten untuk sekolah
+mengembangkan  pemrograman web,
